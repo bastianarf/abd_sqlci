@@ -1,3 +1,21 @@
+# Tugas ABD : CRUD Program based on CodeIgniter 4
+Nama : Bastian Arfianto
+NIM : 18050623002
+Prodi : D3 Manajemen Informatika 2018
+
+## Persiapan :
+1. XAMPP/WAMP (Pastikan MySQL aktif)
+2. Git terinstall (Git Bash)
+
+## Langkah-langkah :
+1. Clone git ini
+2. Buat database baru di MySQL
+3. Import file SQL (pos_db.sql) pada database yang baru saja dibuat
+4. Buka **/app/config/Database.php** , lalu sesuaikan username, password, dan database dengan username, password, dan database MySQL yang dibuat
+5. Buka command prompt, lalu arahkan ke directory ini, lalu ketik **php spark serve**
+6. Buka web browser, lalu buka **http://localhost:8080/**
+
+
 # CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
