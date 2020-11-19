@@ -1,7 +1,8 @@
 # Tugas ABD : CRUD Program based on CodeIgniter 4
-Nama : Bastian Arfianto
-NIM : 18050623002
-Prodi : D3 Manajemen Informatika 2018
+Nama : Bastian Arfianto.
+NIM : 18050623002.
+Prodi : D3 Manajemen Informatika 2018.
+
 
 ## Persiapan :
 1. XAMPP/WAMP (Pastikan MySQL aktif)
